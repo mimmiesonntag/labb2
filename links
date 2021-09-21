@@ -9,6 +9,9 @@
         <link rel="stylesheet" href="style.css">
         <!-- CSS only -->
        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+       <link
+       rel="stylesheet"
+       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     </head>
     <header><div class="container">
         <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
@@ -27,22 +30,24 @@
           </ul>
         </header>
       </div></header>
-      <main class="two">
-        <a href="https://www.facebook.com/">FACEBOOK</a>
-        <a href="https://twitter.com/">TWITTER</a>
-        <a href="https://www.instagram.com/">INSTAGRAM</a>
-        <a href="https://www.snapchat.com/">SNAPCHAT</a>
-        <a href="https://www.tiktok.com/">TIKTOK</a>
-        <a href="https://www.pinterest.se/">PINTREST</a>
-        <a href="https://www.youtube.com/">YOUTUBE</a>
-        <a href="https://www.dn.se/">DAGENS NYHETER</a>
-        <a href="https://se.linkedin.com/">LINKED IN</a>
-        <a href="https://www.microsoft.com/sv-se/microsoft-teams/group-chat-software?ms.url=teamscom&rtc=1">TEAMS </a>
-        <a href="https://www.svt.se/">SVT</a>
-        <a href="https://www.expressen.se/">EXPRESSEN</a>
-        <a href="https://www.aftonbladet.se/">AFTONBLADET</a>
-        <a href="https://www.spotify.com/se/">SPOTIFY</a>
-        <a href="https://www.iths.se/">IT-HÖGSKOLAN</a>
-        <a href="https://soundcloud.com/">SOUNDCLOUD</a>
-        </main>
+      <body>
+     <main class="box">
+        <img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://se.linkedin.com/">LINKEDIN</a>
+        <img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://www.facebook.com/">FACEBOOK</a>
+        <img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://twitter.com/">TWITTER</a>
+        <img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://www.instagram.com/">INSTAGRAM</a>
+        <img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://twitter.com/">TWITTER</a>
+        <img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://www.instagram.com/">INSTAGRAM</a>
+<br><br>
+<p class="hej">hej</p>
+<br>
+<img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://se.linkedin.com/">LINKEDIN</a>
+<img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://www.facebook.com/">FACEBOOK</a>
+<img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://twitter.com/">TWITTER</a>
+<img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://www.instagram.com/">INSTAGRAM</a>
+<img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://twitter.com/">TWITTER</a>
+<img class ="two" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"><a href id="link"="https://www.instagram.com/">INSTAGRAM</a>
+
+
+        </main></body>
 </html>
